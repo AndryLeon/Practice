@@ -1,3 +1,6 @@
+// C++ implement of http://norvig.com/spell-correct.html
+
+
 #ifndef _SPELLCORRECTOR_H_
 #define _SPELLCORRECTOR_H_
 
